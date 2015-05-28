@@ -1,6 +1,8 @@
 Gantry Framework
 ================
 
+[![Join the chat at https://gitter.im/adi8i/gantry5](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adi8i/gantry5?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/gantry/gantry5](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gantry/gantry5?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Ready to get started with Gantry 5? That's great! We are here to help.
